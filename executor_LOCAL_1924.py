@@ -1,9 +1,7 @@
 
 print('hello world - version 1.0')
 
-i = 5
-
-if i == 5:
-  print(i)
+for i in range(0, 10):
+    print('Hi')
 
 print("second line added.  Then try third line")
